@@ -17,7 +17,7 @@ slug: /
 
 ## 疑惑解答
 
-如果文章中有错误或不清楚的地方，辛苦[点击这里](https://github.com/Serendipity96)帮忙提出来，或者到[仓库](https://github.com/Serendipity96)直接提 issue / discussions。
+如果文章中有错误或不清楚的地方，辛苦[点击这里](https://github.com/Serendipity96/extension-guide/issues)帮忙提出来，或者到[仓库](https://github.com/Serendipity96/extension-guide/issues)直接提 issue / discussions。
 
 如果觉得对你有帮助，欢迎到仓库给个 Star 鼓励。
 
